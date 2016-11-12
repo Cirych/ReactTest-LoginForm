@@ -1,0 +1,12 @@
+.modal-dialog.LoginModal {
+	width: 220px;
+}
+
+.LoginModal-Title {
+	font-size: 20px;
+}
+
+.LoginModal-Logo {
+	font-size: 35px;
+	color: rgb(240, 173, 78);
+}

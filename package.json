@@ -1,0 +1,23 @@
+{
+  "name": "login",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "mockserver-client": "^1.0.12",
+    "mockserver-grunt": "^1.0.33",
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "server": "node server/server.js"
+  }
+}

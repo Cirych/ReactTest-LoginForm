@@ -1,0 +1,20 @@
+.LoginForm .LoginForm-Submit {
+	width: 90px;
+	height: 35px;
+	padding: 4px;
+	color: rgb(73, 144, 204);
+	border-radius: 20px;
+}
+
+.LoginForm-Cog {
+	font-size: 25px;
+}
+
+.LoginForm-success {
+	font-size: 20px;
+}
+.LoginForm-success .LoginForm-Ok {
+	color: green;
+	font-size: 30px;
+	font-weight: bold;
+}
